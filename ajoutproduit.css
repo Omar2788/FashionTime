@@ -1,0 +1,32 @@
+.formulaire{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    padding: 5%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 6px #d77197;
+}
+.btnAjouter{
+    background-color: rgb(158, 28, 71);
+    border: none;
+    width: 150px;
+    border-radius: 5px;
+    margin-left: 80%;
+    height: 28px;
+    cursor: pointer;
+    color: white;
+}
+.btnRetour{
+    background-color: rgb(237 175 196);
+    border: none;
+    width: 150px;
+    border-radius: 5px;
+    margin-left: 80%;
+    height: 28px;
+    cursor: pointer;
+    color: white;
+    margin-top: -19px;
+}

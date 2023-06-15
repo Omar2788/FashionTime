@@ -1,0 +1,48 @@
+.modif{
+    display: flex;
+    justify-content: space-evenly;
+}
+.title{
+    margin: 20px;
+    font-size: 30px;
+  }
+  .article{
+    margin: 20px;
+    font-size: 25px;
+  }
+  .titredelarticle{
+    margin: 20px;
+    font-size: 25px;
+    color: rgb(148, 135, 22);
+    font-family: cursive;
+    font-weight: bolder;
+  }
+.btnEnvoyer{
+    background-color: rgb(158, 28, 71);
+    border: none;
+    width: 150px;
+    margin-top: 10px;
+    border-radius: 5px;
+    height: 28px;
+    cursor: pointer;
+    color: white;
+}
+form{
+    width: 700px;
+    margin-top: 30px;
+}
+
+form label{
+    font-size: 25px;
+    
+}
+.retour{
+    color: black;
+    font-size: 15px;
+    margin: 10px;
+}
+.retour:hover{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+}

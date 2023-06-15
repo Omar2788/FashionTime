@@ -1,0 +1,34 @@
+header{
+    background-color: rgb(158, 28, 71);
+    color: white;
+}
+header a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin:5px;
+    padding: 5px;
+    display: inline-block;
+}
+header a:hover{
+    color: white;
+    text-decoration: none;
+    font-size: 20.5px;
+    margin:5px;
+    padding: 5px;
+    display: inline-block;
+}
+.droite{
+    margin-left: auto;
+}
+.gauche{
+    float:left;
+    color: #333;
+    font-weight: bold;
+}
+table{
+    border-collapse: collapse;
+}
+td,th{
+    border:1px solid black;
+}
